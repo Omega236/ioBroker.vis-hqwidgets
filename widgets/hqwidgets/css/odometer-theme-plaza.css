@@ -1,4 +1,5 @@
-@import url("//fonts.googleapis.com/css?family=Arimo");
+/*@import url("//fonts.googleapis.com/css?family=Arimo");*/
+@import url("./fonts.googleapis.com/css_family-Arimo.css"); 
 .odometer.odometer-auto-theme, .odometer.odometer-theme-plaza {
   display: -moz-inline-box;
   -moz-box-orient: vertical;
